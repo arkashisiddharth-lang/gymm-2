@@ -1,0 +1,6 @@
+{
+  "name": "KreativStudio Website Builder & Showcase",
+  "description": "A production-grade modern website, live customizer studio, and deployment launcher built with React and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
